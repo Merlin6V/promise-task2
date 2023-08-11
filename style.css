@@ -1,0 +1,23 @@
+body{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: center;
+    text-align: center;
+   
+}
+h5{
+    text-align: center;
+    text-decoration-style:dotted;
+    color: crimson;
+    text-size-adjust: 5px;
+
+}
+.card{
+    background-image:linear-gradient(violet,rgb(167, 94, 220),rgb(87, 87, 241),green,yellow,orange,red);
+    height: 300px;
+    width: 400px;
+    margin-top: 6px;
+    margin-left: 6px;
+
+}
